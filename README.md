@@ -12,9 +12,9 @@ A kinetic loader with two triangles that rotate with CSS animations.
 
 ## Demo
 
-![](kinetic-CSS-loader.gif)
+![](kinetic-css-loader.gif)
 
-https://curtiskil.github.io/kinetic-CSS-loader
+https://curtiskil.github.io/kinetic-css-loader/
 
 ## Contributors
 
